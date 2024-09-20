@@ -1,0 +1,1570 @@
+[
+    {
+        "review_text": "All over Not good- very disappointed.\n7 layer burrito- missed 2 layers, no quac or black beans and ice cold\nChips- forgotten and cold\nNachos- no flavour, cold. (Not sure if meant to be)\nTacos- empty and ice cold.\nThey gave the chips when asked so service was ok. But not great.\nSide Quacamole- a tea spoon amount.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "All tables left with customers rubbish and food on, floors the same, bins not emptied, run down decor, food very bland compared to when first went there upon opening. Don't think il be returning.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "They told us there is a 40 minutes wait for food which wasn't the best but we were hungry. So we were going to wait but they told us they would take our money but  since the shop was closing in 1 hour there's a chance the drive in booth would be closed so they wouldnt give us our food but they would take the money we paid for it?\nStupid customer service!\nThe service was rude and completely selfish, never coming back.\n\ud83d\ude21\ud83d\ude21\ud83d\ude21!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely shocking food was so poor! When we first walked in could hear staff laughing and messing, around being so loud service was so slow, of what you can see at the back they was just standing still! even though it was busy when two of them behind the back went to sit outside, guessing one of them was a manager has she told a lad to go and do the bins so poor wouldn\u2019t go back!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Worst takeaway ever, ball thrown in a bag with no care. Meat dishes leaked on vegetarian options. Absolute disgrace",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I ordered a delivery and they missed out my desert, the chips were raw and the crisps were burnt, the rice in the burritos were undercooked. Overall very disappointed and will not be ordering from there again.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Great food loved it. Staff are awful we dinned in waited 10 min at the till being ignored and finally ordered on the screen instead. Swearing from the kitchen when our order went in 4 of us. Then when given the food we got chips missing and were not served in boxes and also no marking on the packaging to tell us what was inside and one has a serious lactose allergy.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food is bland and overpriced, totally unsatisfying.  Been 3 times, never again.\n\nOrdered deliveroo 2 miles out, arrived cold\n\nEdit; i have been since! Burritos are very light on meat\n\nIts alright for dessert though and bottomless drinks",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely vile place. Staff ignore you as you walk in. Waiting to be served. Other members of staff had to ask one member who was \u201ccleaning\u201d to come serve customers. Once getting our food I walked to the drink dispensers. As I walked over there was food left out all other place. All over the floor. The drink dispenser had mildew on it and was disgusting too touch. The ladies toilets were blocked, the men\u2019s smelt like a water treatment plant. And the food was bland and overpriced worst experience ever",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The place must be run by children as you can never order food due to Eva no food, ridiculous waiting times when it's not even busy or told there not taking orders no more. All the ingredients can literally be thrown together quick time if it's cooked oready so I don't see there problem.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "ordered on deliveroo and did not get sent a single thing that i ordered. the food i did get was cold and everything i ordered was missing. never getting again worst experience ever. mcdonalds does a better job than this.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Chaotic. 45 minute wait for food. Drive through closed. Just/uber eats closed. They missed churros off our order.  The place was heaving. Rediculous.the food we did get was nice though",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The food was lovely but the customer service was not it! I don\u2019t like the staff\u2019s tone of voice when we were trying to order a different meal and was sighing! They didn\u2019t double check the order we received and missed the tacos that should be part of the volcano burrito box meal ;(",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Probably the rudest member of staff I've been involved with. Still had over an hour left of service, repeatedly told to leave once given our food. We were then shouted at consistently by your employee who claimed, \"I am not taking anymore orders\", and laughed at us as we left. Clearly there is an issue with staff at the monks cross branch, as I have seen several complaints of similar topic. This man should be sacked immediately.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Went to the drive through to be sat there 20\u2019mins waiting, got to the window paid for the boy who works there said it would be another 10 mins laughing and smiling and shut the window absolutely terrible service",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food is tasty. Good service - once you get to the Windows on the d\u0159\u00edve thrue... Takes  about 30 minutes with 2 cars in front of You. One of the evening after work  I decided to tak\u00e9 advantage and go to place my order inside. There was no queue inside about 4 people sat inside having their food already. Cashier has approach m\u011b Fast to let me know that it will be 20-30 minutes for my order. Lack of management not enough staff??  Decided to suspend my regular visits for the time being.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "A restaurant clearly understaffed. Should be classed as slow food rather than fast food. I shan't pass comment on the food quality, as its the same across the chain.  But 1hr in a drive thru is despicable. It rubs salt in the wound that when you get to the window, the available staff are simply having a chat leisurely putting items in a panini press. No sense of urgency. New management and new staff needed.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Staff overworked. Same guy doing drive through and eat in tills. Massive queues inside and out. Childrens menu withdrawn. Tables dirty. Not a lot to like here.\n\nUpdate after 3 years: visited again today. 30 minutes wait for any drive through order. Pathetic !",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Consistently slow. You can't call this \"fast food\" if it always takes at least 20 minutes to get your food. It is extra frustrating watching all but 2 staff non-stop chatting and laughing VERY loudly. Even better watching all the food handlers pulling their masks off their face to chat then immediately go back to touching the food they are preparing.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Arrived at 18.50. The place was shut, with a note on the door saying \"open in half an hour\",  decided to wait it out as it was supposed to be a treat for my son. After half an hour someone came out to inform us it would be another half due to staff needing their breaks. Felt sorry for the girl as they are obviously understaffed, but seriously disappointed. Seems to be a huge problem as when they are open, there are always huge queues. The staff on previous visits have always been friendly and helpful.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I'd rate the food but after 3 attempts (on different days) the store wasnt open (even though the times on their website and front door stated it should be open). One time the door was unlocked so I walked in assuming it was open and patiently waited 5 minutes only to be rudely spoken too advising they where shut. Looking at other reviews this seems to be a common theme for this restaurant.\n\nGo to McDonald's next door, they are actually open and always polite.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Originally reviewed as 5 star in January this year. Food is good usually good though in recent months the staff appear to be very overworked, food takes a good 25 minutes at the drive thru for the last few visits, a couple of weeks back we were sat in the car park nearly an hour before getting to the window. Steadily going downhill for a while. I don't blame the staff, as there should be more staff in the restaurant to cope with demand. During my last visit I counted atleast 10 orders on screen at 11am.\n\nAt my last visit staff member dropped drink on floor out the drive thru window and didn't offer replacement , very disappointing. One person left with the drink that was paid for.\n\nWe usually travel once a week from Scarborough to do shopping at ASDA across the road and get taco bell for dinner on the way home, about 50 miles each way, I think we might be giving it a skip for the next couple months and try McDonald's next door instead.\n\nHopefully things will improve in a month or two.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Got to the drive through, ordered two Chalupa Boxes with a deal even though we said it was two separate transactions at the window. Got to the window and there was only one box. Then told we had to go inside to redeem the other voucher, she told us that she will be out with our food in half an hour bearing in mind we already had been waiting for half an hour anyways. Waited in the car park, 40 minutes went past and saw her outside talking to other people in the drive through. I then approached her to ask how long our food was going to take and she said that it had been ready for 10 minutes and she'd bring it out to us. She approached the car in an extremely rude manner and essentially threw the food along with the scrunched up receipt at us. Terrible customer service.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I've just been here for my first time after a year, 100x worse them what it used to be.\nCheese roll tasted like playdough with transparent cheese inside of it.\nPackaging was a mess, Fries were cold and nasty.\n-10/10 don't go here, would put no stars if I could.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Tried drive through for the second time today, thought the speed last time was slow so thought we\u2019d give it a second chance. Was sat at the window over 3 minuted before even being greeted, food was below satisfactory and the guy who took my order mixed up my order when I got to the window. Will definitely not be trying this for a third time and I think they need to improve this service as it was very poor. If I could give less than one star I would",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Been a few times now hoping the service would possibly improve the food is not terrible but the service from staff is pretty horrific.\nMissing parts from our order on a number of occasions , and leaving me waiting at the drivethrough for 15 minutes.\nStaff need sorting out and so does the quality of service.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "This is the forth time I have arrived at 22 h (10pm) and the door is shut and locked and so is the drive through. Despite the website saying 23h (11pm). Please either change the times on the website or leave the store open. We were not the only people to arrive and leave disappointed. Management please address this.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Utterly diabolical.\n\nThis place is so bad I wouldn't even consider using another of the franchise. Even ones in The U.S. on principle.\n\nThe drive thru has been closed for weeks as they have decided they can't meet demand.\n\nKitchen isn't big enough.\nFilthy restaurant.\nSlow staff.\nReduced menu.\nInedible nachos and cheese sauce.\nInept staff.\nCloses early.\n\nThis place deserves a negative \u2b50 rating. One is way too much.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food is lovely and very tasty, but a certain member of staff was extremely rude, rushing paying customers out of the door, slamming chairs and tables around whilst people were still eating. Completely unacceptable. Short girl with very short brown hair working the 7th November on a close shift.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Second  visit and poor service yet again . First time visit we were told a 30min wait for food, so we went elsewhere. This time visit we were told only the drive thu was available.. Fine unless you were on foot.. Sent an e mail to them but sadly not really Interested, reply came back saying that they would investigate.\nFor a fast food outlet, its a slow outlet!\nThe tacho I had was acceptable.\nPossibly the fact that this is a new operation the service is up and down but as it is new it should be slick, fast and friendly..\nAll in all one star.....",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Drive through was closed so had to go into restaurant. Put on face covering as requested and then in walks a deliveroo driver not wearing one who proceeds to then chat with the staff for five minutes.\nAlso told I could have a can of Pepsi instead of a refillable drink, asked for Pepsi Max and was given it only for a minute later to be rudely told that in future it was normal Pepsi only, but they would let it go this one time.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Opening yomes say open til 11 get there at 10 to find they're closed. Excuse was they had too many orders so we're shutting to focus on them. No consideration for the, at least, 25 people who had all got there to also use the restaurant to be turned away",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Been terrible for weeks and weeks.  Drive through generally just closed. Service pathetic, today you were not allowed to order at the counter. Had to order via just eat as the staff don't respond to verbal stimuli any longer.\n\nWent to KFC instead.  Staff there don't respond to anything other than free KFC.\n\nWonder if the war in Ukraine is to blame, maybe brexit or still just covid.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Oh dear!  A big let down for us on our first visit and probably our last to be honest.  The floor was littered with food and the area near the drinks was swimming is spillage with no wet floor sign.  The service was OK and the food mediocre sadly.  The chap cleaning the tables was just wiping the food onto the floor, we were expecting him to come and sweep it up but nope it was just left there for people to trample in.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "First tinea a taco bell and found the service was below standard, confusing menu which didn't show anything other than a few selected items. Plus the food was not inspiring the taco's weren't crunchy and fresh but stale .",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Just keep driving past...  Ruins what Mexican inspired food is, even in the fast food market.  If you've dined at a US restaurant this is way off mark.\n1 star was for staff...Shame seating area was grubby & messy.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "They are always slow on orders and are often closed when they say they are open. We tried to go here for my friends birthday and they said they weren\u2019t taking orders for 40 minutes. We left very sad and unhappy to McDonalds instead (who always treat us right).",
+        "review_rating": 1
+    },
+    {
+        "review_text": "It\u2019s twice we have arrived at Taco Bell at 9pm and it has been closed!! The place either needs to change its opening times or get better staff who don\u2019t close early for their own benefit. If you say you\u2019re open until 11pm on a Friday and Saturday. You should be open!!!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "As a deliveroo rider and a customer myself I Wouldn\u2019t even hope for my worst enemy to receive such a nasty welcome in any business by one of your staff Rosina,  she was also shouting on other deliveroo/just eat riders treating us horribly yet she thought was totally acceptable.\non the arrival there was also very loud music , staff struggling either to hear what people/customers saying , or not understanding English.  Others dancing and singing loud eminem songs as if it's a rap night , others eating behind the counter without masks on , totally unacceptable behaviour,  would never go back nor recommend to others .",
+        "review_rating": 1
+    },
+    {
+        "review_text": "No fries no salad! Couldn't eat inside for some reason and drive through was closed. They also closed after We'd been which is earlier than advertised but I guess since they have none of the main ingredients that might be why.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food was disgusting, rude and loud staff, food just thrown into bags, grease everywhere, dirty tables and chairs. This place has seriously gone down hill since last time I was here. Save yourself the disappointment and go elsewhere.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "-Servis style \"I don't care\"\n-orderd five meals, they forgot two of them... No apologies...\n-food absolutely plain and everything in paper bags like for dog\nThank you but never again",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The evening after i ate it, i woke up in the middle of the night to feeling of being sick. It took me several hours to actually throw up and get it out my system. I had a school trip the next day, meaning i couldn\u2019t go.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Awful! Went in for 1 item and  stood at the counter for 10 mins while the rude staff ignored me. When they finally came to the counter the lady kept making mistakes on the till until she rolled her eyes and just walked away without saying a word, leaving me standing there! I left without any food and will never return!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Honestly terrible, nothing seems to have flavour, which is strange for a Mexican style fast food place. I've tried it a few times over the years and now that I've tried most of the menu, I can honestly say that it's really poor.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Whilst the order was late, there were missing items, items prepared incorrectly, food cold and nachos soggy.\nIf your going to open then at least make sure you can provide a service. No phone service either to speak to anyone",
+        "review_rating": 1
+    },
+    {
+        "review_text": "drive through staff cannot be bothered speaking to you when you arrive at the speaker had to knock on it after waiting over 5 mins . then had to wait a further 15mins of our order . wont be using again",
+        "review_rating": 1
+    },
+    {
+        "review_text": "EXPENSIVE AND SUBSTANDARD\nThe first occasion I used this Taco Bell was good.  The second appalling. Used the \"drive thru\" as was in a hurry, got a Chicken Fajita with no chicken in it for \u00a33.59.\n\nIt consisted of a few grains of rice in a flat bread.  Complained about my frustration but only got an email defending the price. Total pure negligence from a company that has just opened and giving sub standard service.\n\nHave yet to hear back for over 2 weeks as apparently my feedback had gone to the area manager. Obviously they think that will be end of it and this poor business practice will carry on.\n\nI'm afraid it's not going away my reviewing of this discusting attitude has just started.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Left out churros despite being on the receipt and paid for.\nUpdate: turns out the churros are there, but the caramel dip is missing and 3 BAGS of cinnamon twists are also missing. Nearly a tenners worth of food paid for and MISSING",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Just don't bother. Waited 30 mins after ordering 2 tacos and 2 chips at the drive through....",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Ordered on the mobile app for collection, was told an arranged pickup time and upon arrival I was informed there was a 30 minute wait which turned out to be 40m.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "With very poor drive thru experience /not getting items ordered decided to eat in..every table & floor area were filthy with waste food and rubbish, not busy , but in the time we were there no one cleared or cleaned tables!! Shocking toilet too!! Get a grip Taco Bell !!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Second time I order from taco bell and they miss something everytime. First time it was all the drinks with the meals plus a burrito and this time two burritos and a taco?!! Called them like 20 times but no one was picking up. All this for what? A diarrhoea at the end of the day. Taco bellends",
+        "review_rating": 1
+    },
+    {
+        "review_text": "No hot drinks pressurised into trying differenter things finished up leaving with nothing, went to burger King instead.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Very poor. Food was barely warm. Floors were filthy both in the restaurant and behind the counter. Was glad to leave. Will never be returning the place is appalling",
+        "review_rating": 1
+    },
+    {
+        "review_text": "They sent us away from the restaurant because they couldn't be bothered to take anymore orders even tho they were closing 3 hours later and had a customers in the restaurant eating and send others away too, they was not polite even in the slightest about it either, abit aggressive.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Ordered on Deliveroo. Half our food didn\u2019t turn up. Rang their phone number half a dozen times and no one picked up. Very disappointed",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Shocking customer service. 7pm on a Saturday night, we had gone out of our way to come here, walked into the place clearly in full swing, only to be told they weren't taking anymore indoor orders at the moment. Very disappointing!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely awful, qued for nearly 40 mins in drive through, then waited further 15 mins after payment..... still no food, had to ask for a refund and drive off hungry........ worst drive through experience ever!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I love taco bell so the rating isn't for the food, it's for the staff at this particular establishment.... Completely missed our order, waited over 45 mins no compensation offered.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "First and last visit - under filled, cold and tasteless. Spent \u00a314 and a meal deal from a filling station would have been better all round.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "45 minute wait for drive thru and there were only 2 cars infront.....Paid, and waited that long at the hatch, the assistant tried charging us for the order in the car behid too. 'ave a word",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Don\u2019t bother. They like to close early with no reason on a taco Tuesday? No sign on the door and no reason. Do not think it\u2019s acceptable.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "This place is a shambles supposed to be open till 10pm but the staff inside closed up 9.30pm both inside and drive through useless",
+        "review_rating": 1
+    },
+    {
+        "review_text": "States online that Taco Bell closes at 23:00, arrived at 20:00 and all the staff were sat outside smoking and it was closed, this has happened on multiple occasions now and is rather disappointing to say the least, will consider using a different branch in the future",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Truly awful. I basically got a wrap with a thin layer of cheese and the most minimal amount of chicken I've ever seen. When I complained I was told that's what you get, one scoop.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "How disappointing .. if you like the same uninspiring food n flavours presented in several different forms; this place is for you.\nLacks any imagination .. or effort!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Awful fast food joint. Like all other fast food restaurants",
+        "review_rating": 1
+    },
+    {
+        "review_text": "unfortunately my food was not delivered and the phone number to contact them doesn't work.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Poor customer services, food tastes bad compared to other tacobells. Wouldn\u2019t recommend coming here",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Worst fast food experience. Food took around 50 minutes to be served and staff were hopelessly overfaced",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Terrible says it closes at 11pm got there at 22:00 and they say they are closed with 4 cars at the drive thru still to be served !!\n\nDisgusting!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Staff just don\u2019t give a dam",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Stupidly slow service, cold food, over crowded with shouting people and not worth the hype.\n\nGlad I tried it, will never go back.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I have been waiting about 1,5 h( or more because STILL I am  waiting in the queue!)  to order and collect food. How is it possible?? I will never order here again. Waste of time!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Driver was very rude all the food in the bag was squashed all the chips were scattered at the bottom of the bag and the food was cold never going there again",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Cold food, missing items and very poor cutstomer service. Normally very nice will not be rushing back",
+        "review_rating": 1
+    },
+    {
+        "review_text": "There's a very long wait and the front  staff always seem to scare you with the expected wait time as if to say \"just go away or don't complain if you don't get served on time\"",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Opening times says 11 on a Saturday! Got there told it won\u2019t be open till 12. Went back. Queue a mile long and drive thru not open!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Refused to serve at 9:35. Whoever was working. 11.04.23.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Just waited in a 40 minute drive they line to get a mixed order wrong food and a bad money this is out of order \ud83d\ude11",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Disgusting food. Won't ever go back, waste of my money! I'd give it no stars if I could.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The tacos were a disappointment I couldn't feed a baby with the amount of filling that was given.  Would not recommend this.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Long wait..nearly 25 mins for one stacker box..obviously drive through customers get priority",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely pathetic staff, who cannot take a simple order. A disgrace of untrained incapable staff service.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Worst Taco Bell I have ever been to.\nAlways a wait in excess of 30 minutes.\nDo not bother.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "My food took forever and when I got it it was stone cold and tasted like cardboard",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Half hour wait in drive through. What a joke one member of staff working.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "It says it closes at 10 but shuts at 9 disgraceful",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Don't expect fast service through drive thru.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "If eating salty mushy beef with iceberg lettuce in a big Dorito is your thing then you'll love it here.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Stupidly slow service, along with the WiFi being broken leads to a very boring wait",
+        "review_rating": 1
+    },
+    {
+        "review_text": "56 minute from order to service, staff un bothered",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Really underwhelmed with the Fajita burrito l had, and it was expensive and small too.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "To busy and food not very nice, won\u2019t be going back",
+        "review_rating": 1
+    },
+    {
+        "review_text": "What a load of rubbish, terrible food and place was dirty and not clean",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Nothing in the middle,first and last time of visiting",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Meal for 2 no fries have a nice day",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Appalling salty food. Nothing like the food you would have in Mexico",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Everything was cold and the portions were tiny",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Cheap low quality  food. Won't  be going back.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "First time ever, will never go back to another",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Takes far to long even when no que.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Dry as sticks",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely disgusting staff \ud83e\udd22",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Fast food . Very popular",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Too long a wait",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Bad bad bad rotten service",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Not like in USA",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Vegan paradise",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Very basic",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Closed early",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Slow an cold food",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Expensive",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Eigentlich wollte ich heute den Taco Bell besuchen. Dort angekommen w\u00fcrde einen um 15:30 Uhr mitgeteilt das das Gesch\u00e4ft geschlossen wird, es g\u00e4be ein technisches Problem. Ich habe noch kein einziges Fast Food Restaurant erlebt das komplett wegen eines Problems geschlossen wird.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Abysmal. First Taco Bell experience and felt like I'd been mugged out of \u00a325. Cold, soapy tasting limp food and an atmosphere like a desert. Avoid.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Used to be better. New screens obscure staff behind a wall except for narrow openings. No indication of when your order might appear. Just order, pay and hope the machine listened...",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Good service and not badly priced but for a place called taco bell these are the most tasteless tacos I've ever tried,burritos aren't to bad but not very big.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Staff just shut whenever they feel like it. 8.30pm tonight I got told it\u2019s take out only and they were putting seats on tables, an hour and a half before they shut @ 10pm. Last time I turned up at 9pm and they weren\u2019t taking any orders as they were closing early. If you want food and want to sit in the restaurant, I would suggest getting there 3 hours before close just to be safe!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Don't get anything from the budget range. Food counter isn't clear where you collect.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Too pricy, in my opinion - \u00a38 for a small burrito, and like 5 chips!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "This must be the only fast food restaurant I have ever visited that doesn't have a kids menu. Apparently they used to, but have recently removed it. This made choosing food rather hard for a family of 3 without overfacing them or spending too much. I saw other families resorting to buying their children just a portion of cheesy chips or nachos which isn't really a proper meal. Not too impressed with the food either with chips smothered in crisps favouring and quesadillas filled with runny curry-like sauce. Finally a special mention of dodgy grammar on their sign on the side of the building ;-)",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Great fresh food, fast service, clean restaurant. Painfully loud staff.\n\nI was here last Saturday and the lad calling the orders was louder than an American drill Sargent, kept making my friend and I jump every time he yelled an order, absolutely no need to shout that loud in such a small establishment.\n\nBesides that, fully recommended cheap restaurant \ud83d\udc4d",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was fine. Staff were OK. But what a dirty hole. Toilets were dirty with a hot tap stuck at full blast, the floor never been brushed or mopped in the toilet. Nearly every table was left covered in rubbish and there was no lids for the drinks. Yet four guys behind the counter having a laugh. Got to admit, they were polite though. But get the place cleaned!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Our order was wrong had to ask for the rest of our food order and the food wasn\u2019t even warm at all. As if it had been sitting out on the counter for 15minutes.\nI wouldn\u2019t recommend going to this Taco Bell. This was my first time at Taco Bell and I was so disappointed in it.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Ordered for delivery but my drink was missing from my meal order.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Good was tasty but took over 30 minutes wait for 3 items!!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Staff moaning because customers were coming in 15 mins before close and made people feel uncomfortable. Lied about waiting times so that people wouldn\u2019t order too. Food was good tho",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Just tried to order a 7 layer burrito but they\u2019d run out of black beans. When asked what they would be replaced with, the answer was rice! Last time I was inside I was told the chips are cooked in the same oil as the chicken. Also the drive through intercom is so poor it\u2019s virtually impossible to place your order. Poor service today and overall not great if you don\u2019t want to eat meat.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "A little slow as always. Food good with large portions at reasonable price. The gentleman at window has brilliant customer service. Iv added to my review because of closing times. It make no sense that taco bell should close at 8 threw the week, when Mac Donald s is killing it from 8 to 10. Secondly Ur staff is running Ur business. They turned 20 people away a quarter to 8. Taco bell wake up Ur staff are ruining Ur business. Management needs sacking, for allowing it. My review was a 4, but because Ur staff are running Ur business it a 2 unfortunately. U must not like money closing b4 closing time.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Half hour drive thru wait tonight, also 40p for nacho cheese sauce, which I don't mind... But for the amount you get?? Bit of a joke tbh",
+        "review_rating": 2
+    },
+    {
+        "review_text": "45 minutes to order and recieve food is a long time but what it did do was prove no one was cleaning anything between people using tables and chairs. I saw 1 table get wiped in that whole time and honestly the kid shouldn't have bothered he did such a poor job. Took my food and ate in the car, very little beef in anything I got and just not worth the hassle, I gave it 2 stars because apparently the kids food was ok and they enjoyed it. Hygiene levels will mean I will never return.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Drive through was busy but restaurant was relatively quiet.\n\nI ordered a Volcano Burrito and my son had the chicken burrito.  The food took fifteen minutes which is  too long for a fast food restaurant.\n\nVolcano Burrito was very small, it was literally half the size of the Chicken sandwich.  I wouldn't bother visiting again as it took too long to get served and the portion size of mine was to small.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The staff were friendly and the main food was tasty enough. My main concern for a place with a 5 hygiene rating was how dirty it was. We struggled to find a table that was clean though they had been cleared. There was bits of plastic and rubbish everywhere and the drinks station was a bit acky. The toilet had the cleanest surfaces!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Myself daughter and partner went to this Taco Bell last night. So disappointed. While waiting for our food all the staff were shouting and messing about with each other throwing things at each other. Swearing also. Anyway our food came. Everything we ordered wasn\u2019t cooked properly at all. Very disappointed as taco bell York never disappoints us.\nThen the staff went on to mess about in the kitchen been very loud and one young lad shouted to another. Stop eating it all. So this made us put our food down so while there cooking our food there eating on the job. Only one I didn\u2019t have a complaint about was the female on the till who served us.\nThe fact I am sat there with my daughter also and staff are shouting and swearing.\n\u00a332 we spent. Will not be going again.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food barely ok asked for chicken instead of beef and on the tacos you could hardly see any and in the crunch thing it was barely visible as a thin line. And to top that the place needed the tables and floor cleaning full of debris from previous occupants.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was okay, (as expected)  main concern was the cleanliness of the place, visited at 11.15 (only opened at 11)  lettuce on the chairs presumably from the night before and toilets were disgusting can't have been cleaned for days (hairs, dirty bowl \ud83e\udd22)",
+        "review_rating": 2
+    },
+    {
+        "review_text": "I love Taco Bell. It's my favorite restaurant ever. I began going in the US and I expected the same sort of set up here, with some British quirks of course. Each time we've tried to eat here (York) there's been something wrong. This particular time they were no longer accepting orders at 4 PM because they were too busy with Uber Eats or JustEats. I don't actually know which. But we were turned away.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Nice Mexican food but staff need training in customer services .I had my app open on my phone for points and she told me to wait until she tells me to scan barcode I was just waiting until after I had made order before scanning it .then she made a comment to her colleague about me being too eager for a few points I felt insulted and will definitely not going back",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Takes ages to wait even when for collection once waited over a hour after arriving not a happy customer but food was hot. Been once since for collection again and the food was made waiting for me but after waiting for other customers to order in front of que my order was only just warm by time received.\n\nYork. Monks Cross",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Usually excellent food, however ordered to collect and they decided to shut 30 minutes early and ignore us at the door for 15 minutes before deciding to give us a refund begrudgingly and not give us our food. Not impressed, a shame.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food is ok, time for service is consistently a joke.  Drive through expect to wait 30mins, tonight (4/1/21 at 1900) took 25 mins to get served and leave FROM placing order, only 3 cars in front of me...\n\nNeeds to run more efficiently",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food very disappointing. Staff very slack - too busy talking to each other to look after customers properly.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Very busy ! The tables were all dirty with rubbish when we arrived I'm sure it was teething problems as its relativity new but we did wait almost 20 mins to get served. We when got home 2 items we paid for wernt in the bags..Disappointing to be honest.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Erm..... Haven't been for a while and I used to go regularly when it first opened at Monks Cross, York. But I have to say it will be a while before I visit again as it's definitely gone down hill and food definitely isn't as good! And what's with the whole only selling diet drinks! I'm a adult and as such I should be allowed to choose if I want diet or full fat sort drinks....",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Excellent food but fries fried with the chicken was a big disappointment as my wife is vegetarian. Friendly staff but forgot to give us our drinks. Don't think we'll be going again.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The restraint was clean and their was excellent customer service. However, the food wasn't very nice to be honest. The tacos weren't special; standard tacos shell standard beef and some lettuce. The Mexican fries where on first impression differently nice but after a few more, the sickly powdered cheese on them made them unable to eat personally. I also got cheesy fries desperately to try and although there was plenty of cheese, the cheese was disgusting, DISGUSTING. It was plastic cheese often found on a burger melted with a dollop of tasteless sour cream. Note to self don't get anything with \"cheese\" on again. On the up side there was bottomless soft drinks! That watered down the foul taste of the cheese you fries. The churros where... alright even though they are traditionally Spanish and taco bell is Mexican. In conclusion, I would give more stars due to a good atmosphere however the disappointing food let it down a lot. I expected good things but in the end I reached an anticlimactic solution. Go to taco bell but only if you like these very Americanly adapted flavours.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The food is great however the waiting time for the drive through is ridiculous! Would highly recommend going inside to order as it's twice as quick!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Foods alright but service takes forever, came twice recently first time we were the only ones here and took 15-20 mins for food, came for a quick bite now and has taken 15 mins for something off the saver menu \ud83d\ude44",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Can't fault the staff fighting to keep the show on the road here amid Brexit/Covid shortages at Monks Cross Taco Bell but my gosh it hasn't taken the chain long to start skimping and scraping on ingredients as all these US chains do when they hit Blighty.\n\nYou may as well have called the Tacos Lettuce supremes and the Burritos were a  volcano of ....rice.\n\nWelcome to rip off Britain Taco Bell, your US outlets would blush with shame.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Great food and good service\nBut everytime i go i always have something missing off my order!!! Its like they dont check everything and a lot of my friends have said the same that they always have something missing off the order",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Doesn't compare to the US chain, rubbish burritos that don't have refried beans but just straight pinto beans. Cheese is the main ingredient in everything by the looks of it.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "If you sitting in, prepare to walk out stinking like a fast food kitchen. While eating you will battle to see because of the amount of smoke in the restaurant. Kitchen needs a better extraction fan.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Very little true content in the food that we received. We ordered quite a few items. The staff were friendly and quick. We won't be back, because of the food.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food took the best part of 30 mins and everything on the menu is spicy.\nI can't be eating here again \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Wasn't very good last time I went, not tasty, they got the order wrong also, although they corrected it quickly. No hot beverages at all. Not good",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Can't say I've ever been overly impressed with Taco bell. I'm not really a regular and always forget how bad it is! Can't fault the service from the staff though.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Decent food but not impressed with the wait times is unbelievable needs to improve dramatically",
+        "review_rating": 2
+    },
+    {
+        "review_text": "I have been to this branch several times. The service is very slow; as soon as they get more than 3 orders at once it all seems to grind to a halt.\nThe restaurant is always a mess too.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "In my experience , it should not b a drive through .. if u want good food on the go ! You should not have to wait at least 10 min ,s",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Lovely food nice staff but place was filthy and food left on tables noone cleaning up",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The range of food is good but it is all very bland, soggy, mediocre food. I wouldn\u2019t bother with it to be honest, if you want Mexican food there are much nicer options out there.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Your beefy nacho grillers are getting a bit minging. I used to love them and now I can\u2019t eat them as you have started putting some sort of weird seasoning on the nachos that tastes burnt. Sort it out\ud83d\ude21",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was nice and ready quickly but it seemed under-staffed. Dirty tables and floor",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Restaurant stank of burnt food, smokey and the order taken was totally wrong? I was treated that poorly I accepted what I received and left....",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food is great but there's no \"fast\" in fast-food here! Sat in drive through for at least 15mins",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The food is fairly tasty for what it is but have been twice now and barely had any filling in it!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food great but a 20min wait?? Not just me it was every single order.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was nice but the restaurant is not kept clean at all...",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Three separate occasions of going to the drive through and having to wait twenty minutes plus for food. Shocking service.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Not impressed at all. Was expecting it to be a restaurant where I could go with the family that did takeaway as well. Its just a grey box with crappy seating.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "More than 2 stars for the food but the waiting time was appalling and wasn\u2019t busy at all",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food good, restaurant dirty, bins overflowing, food spilt on floor and tables and left even though there were barely any customers",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Expensive but that is because I did not take any meal deal. Limited menu compared to the USA, which was disappointing.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Opening hours are pants and the service is always really slow at the drive through.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was okay but a 25 minute wait is ridiculous.. looked very understaffed! Chocodilla is a rip off",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Very poor on drive through waited over 15 minutes this is not the first time I've visited.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food just ok at best. A bit pricey for what you get.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Not bad , good burrito but why the plastic packet for chips, seems very  wasteful considering the planets state",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Take away but not as good as I expected. Not worth the money paid",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was hot, but not very enjoyable",
+        "review_rating": 2
+    },
+    {
+        "review_text": "It's no McDonald's when you want a bit of fast food!!!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The staff were very unhelpful when my grandchildren got the wrong order.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "30 min queue...The food wasn't worth the wait",
+        "review_rating": 2
+    },
+    {
+        "review_text": "only good thing is fajita barito there amazing",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Disorganised takeaway half missing hopefully it will improve",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Tried it at son's request. All tasted the same",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Dirty tables, floor, toilets.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Took mick with food, very sickly",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Disappointed in the food and the waiting times",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Lazy staff\nBusy with chatting with friends",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Customer service by nick was horrible.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Fast but tasteless.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Poor vegarian options",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Good but not as good as it used to be.\n\nOrdered Burrito Box meal for \u00a38.99 which was ok but not exactly filling.  Portion sizes at Taco Bell seem to be getting smaller and smaller (compared to when they first opened) but yet prices keep going up.\n\nAlso last 2 times I've been I've used the touch screen in  the restaurant and on both occasions my points have not been added to my rewards app...not good!\n\nTaco Bell seems to be on the slide to me.",
+        "review_rating": 3
+    },
+    {
+        "review_text": "Tacos are tiny , measley portion of minced beef in it.. don't think burritos , tacos, enchiladas, work as a Macdonald's type operation",
+        "review_rating": 3
+    },
+    {
+        "review_text": "All over Not good- very disappointed.\n7 layer burrito- missed 2 layers, no quac or black beans and ice cold\nChips- forgotten and cold\nNachos- no flavour, cold. (Not sure if meant to be)\nTacos- empty and ice cold.\nThey gave the chips when asked so service was ok. But not great.\nSide Quacamole- a tea spoon amount.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "All tables left with customers rubbish and food on, floors the same, bins not emptied, run down decor, food very bland compared to when first went there upon opening. Don't think il be returning.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "They told us there is a 40 minutes wait for food which wasn't the best but we were hungry. So we were going to wait but they told us they would take our money but  since the shop was closing in 1 hour there's a chance the drive in booth would be closed so they wouldnt give us our food but they would take the money we paid for it?\nStupid customer service!\nThe service was rude and completely selfish, never coming back.\n\ud83d\ude21\ud83d\ude21\ud83d\ude21!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely shocking food was so poor! When we first walked in could hear staff laughing and messing, around being so loud service was so slow, of what you can see at the back they was just standing still! even though it was busy when two of them behind the back went to sit outside, guessing one of them was a manager has she told a lad to go and do the bins so poor wouldn\u2019t go back!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Worst takeaway ever, ball thrown in a bag with no care. Meat dishes leaked on vegetarian options. Absolute disgrace",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I ordered a delivery and they missed out my desert, the chips were raw and the crisps were burnt, the rice in the burritos were undercooked. Overall very disappointed and will not be ordering from there again.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Great food loved it. Staff are awful we dinned in waited 10 min at the till being ignored and finally ordered on the screen instead. Swearing from the kitchen when our order went in 4 of us. Then when given the food we got chips missing and were not served in boxes and also no marking on the packaging to tell us what was inside and one has a serious lactose allergy.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food is bland and overpriced, totally unsatisfying.  Been 3 times, never again.\n\nOrdered deliveroo 2 miles out, arrived cold\n\nEdit; i have been since! Burritos are very light on meat\n\nIts alright for dessert though and bottomless drinks",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely vile place. Staff ignore you as you walk in. Waiting to be served. Other members of staff had to ask one member who was \u201ccleaning\u201d to come serve customers. Once getting our food I walked to the drink dispensers. As I walked over there was food left out all other place. All over the floor. The drink dispenser had mildew on it and was disgusting too touch. The ladies toilets were blocked, the men\u2019s smelt like a water treatment plant. And the food was bland and overpriced worst experience ever",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The place must be run by children as you can never order food due to Eva no food, ridiculous waiting times when it's not even busy or told there not taking orders no more. All the ingredients can literally be thrown together quick time if it's cooked oready so I don't see there problem.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "ordered on deliveroo and did not get sent a single thing that i ordered. the food i did get was cold and everything i ordered was missing. never getting again worst experience ever. mcdonalds does a better job than this.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Chaotic. 45 minute wait for food. Drive through closed. Just/uber eats closed. They missed churros off our order.  The place was heaving. Rediculous.the food we did get was nice though",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The food was lovely but the customer service was not it! I don\u2019t like the staff\u2019s tone of voice when we were trying to order a different meal and was sighing! They didn\u2019t double check the order we received and missed the tacos that should be part of the volcano burrito box meal ;(",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Probably the rudest member of staff I've been involved with. Still had over an hour left of service, repeatedly told to leave once given our food. We were then shouted at consistently by your employee who claimed, \"I am not taking anymore orders\", and laughed at us as we left. Clearly there is an issue with staff at the monks cross branch, as I have seen several complaints of similar topic. This man should be sacked immediately.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Went to the drive through to be sat there 20\u2019mins waiting, got to the window paid for the boy who works there said it would be another 10 mins laughing and smiling and shut the window absolutely terrible service",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food is tasty. Good service - once you get to the Windows on the d\u0159\u00edve thrue... Takes  about 30 minutes with 2 cars in front of You. One of the evening after work  I decided to tak\u00e9 advantage and go to place my order inside. There was no queue inside about 4 people sat inside having their food already. Cashier has approach m\u011b Fast to let me know that it will be 20-30 minutes for my order. Lack of management not enough staff??  Decided to suspend my regular visits for the time being.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "A restaurant clearly understaffed. Should be classed as slow food rather than fast food. I shan't pass comment on the food quality, as its the same across the chain.  But 1hr in a drive thru is despicable. It rubs salt in the wound that when you get to the window, the available staff are simply having a chat leisurely putting items in a panini press. No sense of urgency. New management and new staff needed.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Staff overworked. Same guy doing drive through and eat in tills. Massive queues inside and out. Childrens menu withdrawn. Tables dirty. Not a lot to like here.\n\nUpdate after 3 years: visited again today. 30 minutes wait for any drive through order. Pathetic !",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Consistently slow. You can't call this \"fast food\" if it always takes at least 20 minutes to get your food. It is extra frustrating watching all but 2 staff non-stop chatting and laughing VERY loudly. Even better watching all the food handlers pulling their masks off their face to chat then immediately go back to touching the food they are preparing.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Arrived at 18.50. The place was shut, with a note on the door saying \"open in half an hour\",  decided to wait it out as it was supposed to be a treat for my son. After half an hour someone came out to inform us it would be another half due to staff needing their breaks. Felt sorry for the girl as they are obviously understaffed, but seriously disappointed. Seems to be a huge problem as when they are open, there are always huge queues. The staff on previous visits have always been friendly and helpful.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I'd rate the food but after 3 attempts (on different days) the store wasnt open (even though the times on their website and front door stated it should be open). One time the door was unlocked so I walked in assuming it was open and patiently waited 5 minutes only to be rudely spoken too advising they where shut. Looking at other reviews this seems to be a common theme for this restaurant.\n\nGo to McDonald's next door, they are actually open and always polite.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Originally reviewed as 5 star in January this year. Food is good usually good though in recent months the staff appear to be very overworked, food takes a good 25 minutes at the drive thru for the last few visits, a couple of weeks back we were sat in the car park nearly an hour before getting to the window. Steadily going downhill for a while. I don't blame the staff, as there should be more staff in the restaurant to cope with demand. During my last visit I counted atleast 10 orders on screen at 11am.\n\nAt my last visit staff member dropped drink on floor out the drive thru window and didn't offer replacement , very disappointing. One person left with the drink that was paid for.\n\nWe usually travel once a week from Scarborough to do shopping at ASDA across the road and get taco bell for dinner on the way home, about 50 miles each way, I think we might be giving it a skip for the next couple months and try McDonald's next door instead.\n\nHopefully things will improve in a month or two.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Got to the drive through, ordered two Chalupa Boxes with a deal even though we said it was two separate transactions at the window. Got to the window and there was only one box. Then told we had to go inside to redeem the other voucher, she told us that she will be out with our food in half an hour bearing in mind we already had been waiting for half an hour anyways. Waited in the car park, 40 minutes went past and saw her outside talking to other people in the drive through. I then approached her to ask how long our food was going to take and she said that it had been ready for 10 minutes and she'd bring it out to us. She approached the car in an extremely rude manner and essentially threw the food along with the scrunched up receipt at us. Terrible customer service.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I've just been here for my first time after a year, 100x worse them what it used to be.\nCheese roll tasted like playdough with transparent cheese inside of it.\nPackaging was a mess, Fries were cold and nasty.\n-10/10 don't go here, would put no stars if I could.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Tried drive through for the second time today, thought the speed last time was slow so thought we\u2019d give it a second chance. Was sat at the window over 3 minuted before even being greeted, food was below satisfactory and the guy who took my order mixed up my order when I got to the window. Will definitely not be trying this for a third time and I think they need to improve this service as it was very poor. If I could give less than one star I would",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Been a few times now hoping the service would possibly improve the food is not terrible but the service from staff is pretty horrific.\nMissing parts from our order on a number of occasions , and leaving me waiting at the drivethrough for 15 minutes.\nStaff need sorting out and so does the quality of service.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "This is the forth time I have arrived at 22 h (10pm) and the door is shut and locked and so is the drive through. Despite the website saying 23h (11pm). Please either change the times on the website or leave the store open. We were not the only people to arrive and leave disappointed. Management please address this.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Utterly diabolical.\n\nThis place is so bad I wouldn't even consider using another of the franchise. Even ones in The U.S. on principle.\n\nThe drive thru has been closed for weeks as they have decided they can't meet demand.\n\nKitchen isn't big enough.\nFilthy restaurant.\nSlow staff.\nReduced menu.\nInedible nachos and cheese sauce.\nInept staff.\nCloses early.\n\nThis place deserves a negative \u2b50 rating. One is way too much.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food is lovely and very tasty, but a certain member of staff was extremely rude, rushing paying customers out of the door, slamming chairs and tables around whilst people were still eating. Completely unacceptable. Short girl with very short brown hair working the 7th November on a close shift.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Second  visit and poor service yet again . First time visit we were told a 30min wait for food, so we went elsewhere. This time visit we were told only the drive thu was available.. Fine unless you were on foot.. Sent an e mail to them but sadly not really Interested, reply came back saying that they would investigate.\nFor a fast food outlet, its a slow outlet!\nThe tacho I had was acceptable.\nPossibly the fact that this is a new operation the service is up and down but as it is new it should be slick, fast and friendly..\nAll in all one star.....",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Drive through was closed so had to go into restaurant. Put on face covering as requested and then in walks a deliveroo driver not wearing one who proceeds to then chat with the staff for five minutes.\nAlso told I could have a can of Pepsi instead of a refillable drink, asked for Pepsi Max and was given it only for a minute later to be rudely told that in future it was normal Pepsi only, but they would let it go this one time.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Opening yomes say open til 11 get there at 10 to find they're closed. Excuse was they had too many orders so we're shutting to focus on them. No consideration for the, at least, 25 people who had all got there to also use the restaurant to be turned away",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Been terrible for weeks and weeks.  Drive through generally just closed. Service pathetic, today you were not allowed to order at the counter. Had to order via just eat as the staff don't respond to verbal stimuli any longer.\n\nWent to KFC instead.  Staff there don't respond to anything other than free KFC.\n\nWonder if the war in Ukraine is to blame, maybe brexit or still just covid.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Oh dear!  A big let down for us on our first visit and probably our last to be honest.  The floor was littered with food and the area near the drinks was swimming is spillage with no wet floor sign.  The service was OK and the food mediocre sadly.  The chap cleaning the tables was just wiping the food onto the floor, we were expecting him to come and sweep it up but nope it was just left there for people to trample in.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "First tinea a taco bell and found the service was below standard, confusing menu which didn't show anything other than a few selected items. Plus the food was not inspiring the taco's weren't crunchy and fresh but stale .",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Just keep driving past...  Ruins what Mexican inspired food is, even in the fast food market.  If you've dined at a US restaurant this is way off mark.\n1 star was for staff...Shame seating area was grubby & messy.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "They are always slow on orders and are often closed when they say they are open. We tried to go here for my friends birthday and they said they weren\u2019t taking orders for 40 minutes. We left very sad and unhappy to McDonalds instead (who always treat us right).",
+        "review_rating": 1
+    },
+    {
+        "review_text": "It\u2019s twice we have arrived at Taco Bell at 9pm and it has been closed!! The place either needs to change its opening times or get better staff who don\u2019t close early for their own benefit. If you say you\u2019re open until 11pm on a Friday and Saturday. You should be open!!!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "As a deliveroo rider and a customer myself I Wouldn\u2019t even hope for my worst enemy to receive such a nasty welcome in any business by one of your staff Rosina,  she was also shouting on other deliveroo/just eat riders treating us horribly yet she thought was totally acceptable.\non the arrival there was also very loud music , staff struggling either to hear what people/customers saying , or not understanding English.  Others dancing and singing loud eminem songs as if it's a rap night , others eating behind the counter without masks on , totally unacceptable behaviour,  would never go back nor recommend to others .",
+        "review_rating": 1
+    },
+    {
+        "review_text": "No fries no salad! Couldn't eat inside for some reason and drive through was closed. They also closed after We'd been which is earlier than advertised but I guess since they have none of the main ingredients that might be why.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Food was disgusting, rude and loud staff, food just thrown into bags, grease everywhere, dirty tables and chairs. This place has seriously gone down hill since last time I was here. Save yourself the disappointment and go elsewhere.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "-Servis style \"I don't care\"\n-orderd five meals, they forgot two of them... No apologies...\n-food absolutely plain and everything in paper bags like for dog\nThank you but never again",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The evening after i ate it, i woke up in the middle of the night to feeling of being sick. It took me several hours to actually throw up and get it out my system. I had a school trip the next day, meaning i couldn\u2019t go.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Awful! Went in for 1 item and  stood at the counter for 10 mins while the rude staff ignored me. When they finally came to the counter the lady kept making mistakes on the till until she rolled her eyes and just walked away without saying a word, leaving me standing there! I left without any food and will never return!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Honestly terrible, nothing seems to have flavour, which is strange for a Mexican style fast food place. I've tried it a few times over the years and now that I've tried most of the menu, I can honestly say that it's really poor.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Whilst the order was late, there were missing items, items prepared incorrectly, food cold and nachos soggy.\nIf your going to open then at least make sure you can provide a service. No phone service either to speak to anyone",
+        "review_rating": 1
+    },
+    {
+        "review_text": "drive through staff cannot be bothered speaking to you when you arrive at the speaker had to knock on it after waiting over 5 mins . then had to wait a further 15mins of our order . wont be using again",
+        "review_rating": 1
+    },
+    {
+        "review_text": "EXPENSIVE AND SUBSTANDARD\nThe first occasion I used this Taco Bell was good.  The second appalling. Used the \"drive thru\" as was in a hurry, got a Chicken Fajita with no chicken in it for \u00a33.59.\n\nIt consisted of a few grains of rice in a flat bread.  Complained about my frustration but only got an email defending the price. Total pure negligence from a company that has just opened and giving sub standard service.\n\nHave yet to hear back for over 2 weeks as apparently my feedback had gone to the area manager. Obviously they think that will be end of it and this poor business practice will carry on.\n\nI'm afraid it's not going away my reviewing of this discusting attitude has just started.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Left out churros despite being on the receipt and paid for.\nUpdate: turns out the churros are there, but the caramel dip is missing and 3 BAGS of cinnamon twists are also missing. Nearly a tenners worth of food paid for and MISSING",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Just don't bother. Waited 30 mins after ordering 2 tacos and 2 chips at the drive through....",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Ordered on the mobile app for collection, was told an arranged pickup time and upon arrival I was informed there was a 30 minute wait which turned out to be 40m.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "With very poor drive thru experience /not getting items ordered decided to eat in..every table & floor area were filthy with waste food and rubbish, not busy , but in the time we were there no one cleared or cleaned tables!! Shocking toilet too!! Get a grip Taco Bell !!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Second time I order from taco bell and they miss something everytime. First time it was all the drinks with the meals plus a burrito and this time two burritos and a taco?!! Called them like 20 times but no one was picking up. All this for what? A diarrhoea at the end of the day. Taco bellends",
+        "review_rating": 1
+    },
+    {
+        "review_text": "No hot drinks pressurised into trying differenter things finished up leaving with nothing, went to burger King instead.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Very poor. Food was barely warm. Floors were filthy both in the restaurant and behind the counter. Was glad to leave. Will never be returning the place is appalling",
+        "review_rating": 1
+    },
+    {
+        "review_text": "They sent us away from the restaurant because they couldn't be bothered to take anymore orders even tho they were closing 3 hours later and had a customers in the restaurant eating and send others away too, they was not polite even in the slightest about it either, abit aggressive.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Ordered on Deliveroo. Half our food didn\u2019t turn up. Rang their phone number half a dozen times and no one picked up. Very disappointed",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Shocking customer service. 7pm on a Saturday night, we had gone out of our way to come here, walked into the place clearly in full swing, only to be told they weren't taking anymore indoor orders at the moment. Very disappointing!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely awful, qued for nearly 40 mins in drive through, then waited further 15 mins after payment..... still no food, had to ask for a refund and drive off hungry........ worst drive through experience ever!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I love taco bell so the rating isn't for the food, it's for the staff at this particular establishment.... Completely missed our order, waited over 45 mins no compensation offered.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "First and last visit - under filled, cold and tasteless. Spent \u00a314 and a meal deal from a filling station would have been better all round.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "45 minute wait for drive thru and there were only 2 cars infront.....Paid, and waited that long at the hatch, the assistant tried charging us for the order in the car behid too. 'ave a word",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Don\u2019t bother. They like to close early with no reason on a taco Tuesday? No sign on the door and no reason. Do not think it\u2019s acceptable.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "This place is a shambles supposed to be open till 10pm but the staff inside closed up 9.30pm both inside and drive through useless",
+        "review_rating": 1
+    },
+    {
+        "review_text": "States online that Taco Bell closes at 23:00, arrived at 20:00 and all the staff were sat outside smoking and it was closed, this has happened on multiple occasions now and is rather disappointing to say the least, will consider using a different branch in the future",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Truly awful. I basically got a wrap with a thin layer of cheese and the most minimal amount of chicken I've ever seen. When I complained I was told that's what you get, one scoop.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "How disappointing .. if you like the same uninspiring food n flavours presented in several different forms; this place is for you.\nLacks any imagination .. or effort!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Awful fast food joint. Like all other fast food restaurants",
+        "review_rating": 1
+    },
+    {
+        "review_text": "unfortunately my food was not delivered and the phone number to contact them doesn't work.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Poor customer services, food tastes bad compared to other tacobells. Wouldn\u2019t recommend coming here",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Worst fast food experience. Food took around 50 minutes to be served and staff were hopelessly overfaced",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Terrible says it closes at 11pm got there at 22:00 and they say they are closed with 4 cars at the drive thru still to be served !!\n\nDisgusting!!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Staff just don\u2019t give a dam",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Stupidly slow service, cold food, over crowded with shouting people and not worth the hype.\n\nGlad I tried it, will never go back.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "I have been waiting about 1,5 h( or more because STILL I am  waiting in the queue!)  to order and collect food. How is it possible?? I will never order here again. Waste of time!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Driver was very rude all the food in the bag was squashed all the chips were scattered at the bottom of the bag and the food was cold never going there again",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Cold food, missing items and very poor cutstomer service. Normally very nice will not be rushing back",
+        "review_rating": 1
+    },
+    {
+        "review_text": "There's a very long wait and the front  staff always seem to scare you with the expected wait time as if to say \"just go away or don't complain if you don't get served on time\"",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Opening times says 11 on a Saturday! Got there told it won\u2019t be open till 12. Went back. Queue a mile long and drive thru not open!",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Refused to serve at 9:35. Whoever was working. 11.04.23.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Just waited in a 40 minute drive they line to get a mixed order wrong food and a bad money this is out of order \ud83d\ude11",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Disgusting food. Won't ever go back, waste of my money! I'd give it no stars if I could.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "The tacos were a disappointment I couldn't feed a baby with the amount of filling that was given.  Would not recommend this.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Long wait..nearly 25 mins for one stacker box..obviously drive through customers get priority",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely pathetic staff, who cannot take a simple order. A disgrace of untrained incapable staff service.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "My food took forever and when I got it it was stone cold and tasted like cardboard",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Worst Taco Bell I have ever been to.\nAlways a wait in excess of 30 minutes.\nDo not bother.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Half hour wait in drive through. What a joke one member of staff working.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "It says it closes at 10 but shuts at 9 disgraceful",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Don't expect fast service through drive thru.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "If eating salty mushy beef with iceberg lettuce in a big Dorito is your thing then you'll love it here.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Stupidly slow service, along with the WiFi being broken leads to a very boring wait",
+        "review_rating": 1
+    },
+    {
+        "review_text": "56 minute from order to service, staff un bothered",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Really underwhelmed with the Fajita burrito l had, and it was expensive and small too.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "To busy and food not very nice, won\u2019t be going back",
+        "review_rating": 1
+    },
+    {
+        "review_text": "What a load of rubbish, terrible food and place was dirty and not clean",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Nothing in the middle,first and last time of visiting",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Meal for 2 no fries have a nice day",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Appalling salty food. Nothing like the food you would have in Mexico",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Everything was cold and the portions were tiny",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Cheap low quality  food. Won't  be going back.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "First time ever, will never go back to another",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Takes far to long even when no que.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Dry as sticks",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Absolutely disgusting staff \ud83e\udd22",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Fast food . Very popular",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Too long a wait",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Bad bad bad rotten service",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Not like in USA",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Vegan paradise",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Very basic",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Closed early",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Slow an cold food",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Expensive",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Eigentlich wollte ich heute den Taco Bell besuchen. Dort angekommen w\u00fcrde einen um 15:30 Uhr mitgeteilt das das Gesch\u00e4ft geschlossen wird, es g\u00e4be ein technisches Problem. Ich habe noch kein einziges Fast Food Restaurant erlebt das komplett wegen eines Problems geschlossen wird.",
+        "review_rating": 1
+    },
+    {
+        "review_text": "Abysmal. First Taco Bell experience and felt like I'd been mugged out of \u00a325. Cold, soapy tasting limp food and an atmosphere like a desert. Avoid.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Used to be better. New screens obscure staff behind a wall except for narrow openings. No indication of when your order might appear. Just order, pay and hope the machine listened...",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Good service and not badly priced but for a place called taco bell these are the most tasteless tacos I've ever tried,burritos aren't to bad but not very big.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Staff just shut whenever they feel like it. 8.30pm tonight I got told it\u2019s take out only and they were putting seats on tables, an hour and a half before they shut @ 10pm. Last time I turned up at 9pm and they weren\u2019t taking any orders as they were closing early. If you want food and want to sit in the restaurant, I would suggest getting there 3 hours before close just to be safe!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Don't get anything from the budget range. Food counter isn't clear where you collect.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Too pricy, in my opinion - \u00a38 for a small burrito, and like 5 chips!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "This must be the only fast food restaurant I have ever visited that doesn't have a kids menu. Apparently they used to, but have recently removed it. This made choosing food rather hard for a family of 3 without overfacing them or spending too much. I saw other families resorting to buying their children just a portion of cheesy chips or nachos which isn't really a proper meal. Not too impressed with the food either with chips smothered in crisps favouring and quesadillas filled with runny curry-like sauce. Finally a special mention of dodgy grammar on their sign on the side of the building ;-)",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Great fresh food, fast service, clean restaurant. Painfully loud staff.\n\nI was here last Saturday and the lad calling the orders was louder than an American drill Sargent, kept making my friend and I jump every time he yelled an order, absolutely no need to shout that loud in such a small establishment.\n\nBesides that, fully recommended cheap restaurant \ud83d\udc4d",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was fine. Staff were OK. But what a dirty hole. Toilets were dirty with a hot tap stuck at full blast, the floor never been brushed or mopped in the toilet. Nearly every table was left covered in rubbish and there was no lids for the drinks. Yet four guys behind the counter having a laugh. Got to admit, they were polite though. But get the place cleaned!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Our order was wrong had to ask for the rest of our food order and the food wasn\u2019t even warm at all. As if it had been sitting out on the counter for 15minutes.\nI wouldn\u2019t recommend going to this Taco Bell. This was my first time at Taco Bell and I was so disappointed in it.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Ordered for delivery but my drink was missing from my meal order.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Good was tasty but took over 30 minutes wait for 3 items!!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Staff moaning because customers were coming in 15 mins before close and made people feel uncomfortable. Lied about waiting times so that people wouldn\u2019t order too. Food was good tho",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Just tried to order a 7 layer burrito but they\u2019d run out of black beans. When asked what they would be replaced with, the answer was rice! Last time I was inside I was told the chips are cooked in the same oil as the chicken. Also the drive through intercom is so poor it\u2019s virtually impossible to place your order. Poor service today and overall not great if you don\u2019t want to eat meat.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "A little slow as always. Food good with large portions at reasonable price. The gentleman at window has brilliant customer service. Iv added to my review because of closing times. It make no sense that taco bell should close at 8 threw the week, when Mac Donald s is killing it from 8 to 10. Secondly Ur staff is running Ur business. They turned 20 people away a quarter to 8. Taco bell wake up Ur staff are ruining Ur business. Management needs sacking, for allowing it. My review was a 4, but because Ur staff are running Ur business it a 2 unfortunately. U must not like money closing b4 closing time.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Half hour drive thru wait tonight, also 40p for nacho cheese sauce, which I don't mind... But for the amount you get?? Bit of a joke tbh",
+        "review_rating": 2
+    },
+    {
+        "review_text": "45 minutes to order and recieve food is a long time but what it did do was prove no one was cleaning anything between people using tables and chairs. I saw 1 table get wiped in that whole time and honestly the kid shouldn't have bothered he did such a poor job. Took my food and ate in the car, very little beef in anything I got and just not worth the hassle, I gave it 2 stars because apparently the kids food was ok and they enjoyed it. Hygiene levels will mean I will never return.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Drive through was busy but restaurant was relatively quiet.\n\nI ordered a Volcano Burrito and my son had the chicken burrito.  The food took fifteen minutes which is  too long for a fast food restaurant.\n\nVolcano Burrito was very small, it was literally half the size of the Chicken sandwich.  I wouldn't bother visiting again as it took too long to get served and the portion size of mine was to small.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The staff were friendly and the main food was tasty enough. My main concern for a place with a 5 hygiene rating was how dirty it was. We struggled to find a table that was clean though they had been cleared. There was bits of plastic and rubbish everywhere and the drinks station was a bit acky. The toilet had the cleanest surfaces!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Myself daughter and partner went to this Taco Bell last night. So disappointed. While waiting for our food all the staff were shouting and messing about with each other throwing things at each other. Swearing also. Anyway our food came. Everything we ordered wasn\u2019t cooked properly at all. Very disappointed as taco bell York never disappoints us.\nThen the staff went on to mess about in the kitchen been very loud and one young lad shouted to another. Stop eating it all. So this made us put our food down so while there cooking our food there eating on the job. Only one I didn\u2019t have a complaint about was the female on the till who served us.\nThe fact I am sat there with my daughter also and staff are shouting and swearing.\n\u00a332 we spent. Will not be going again.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food barely ok asked for chicken instead of beef and on the tacos you could hardly see any and in the crunch thing it was barely visible as a thin line. And to top that the place needed the tables and floor cleaning full of debris from previous occupants.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was okay, (as expected)  main concern was the cleanliness of the place, visited at 11.15 (only opened at 11)  lettuce on the chairs presumably from the night before and toilets were disgusting can't have been cleaned for days (hairs, dirty bowl \ud83e\udd22)",
+        "review_rating": 2
+    },
+    {
+        "review_text": "I love Taco Bell. It's my favorite restaurant ever. I began going in the US and I expected the same sort of set up here, with some British quirks of course. Each time we've tried to eat here (York) there's been something wrong. This particular time they were no longer accepting orders at 4 PM because they were too busy with Uber Eats or JustEats. I don't actually know which. But we were turned away.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Nice Mexican food but staff need training in customer services .I had my app open on my phone for points and she told me to wait until she tells me to scan barcode I was just waiting until after I had made order before scanning it .then she made a comment to her colleague about me being too eager for a few points I felt insulted and will definitely not going back",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Takes ages to wait even when for collection once waited over a hour after arriving not a happy customer but food was hot. Been once since for collection again and the food was made waiting for me but after waiting for other customers to order in front of que my order was only just warm by time received.\n\nYork. Monks Cross",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Usually excellent food, however ordered to collect and they decided to shut 30 minutes early and ignore us at the door for 15 minutes before deciding to give us a refund begrudgingly and not give us our food. Not impressed, a shame.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food is ok, time for service is consistently a joke.  Drive through expect to wait 30mins, tonight (4/1/21 at 1900) took 25 mins to get served and leave FROM placing order, only 3 cars in front of me...\n\nNeeds to run more efficiently",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food very disappointing. Staff very slack - too busy talking to each other to look after customers properly.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Very busy ! The tables were all dirty with rubbish when we arrived I'm sure it was teething problems as its relativity new but we did wait almost 20 mins to get served. We when got home 2 items we paid for wernt in the bags..Disappointing to be honest.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Erm..... Haven't been for a while and I used to go regularly when it first opened at Monks Cross, York. But I have to say it will be a while before I visit again as it's definitely gone down hill and food definitely isn't as good! And what's with the whole only selling diet drinks! I'm a adult and as such I should be allowed to choose if I want diet or full fat sort drinks....",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Excellent food but fries fried with the chicken was a big disappointment as my wife is vegetarian. Friendly staff but forgot to give us our drinks. Don't think we'll be going again.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The restraint was clean and their was excellent customer service. However, the food wasn't very nice to be honest. The tacos weren't special; standard tacos shell standard beef and some lettuce. The Mexican fries where on first impression differently nice but after a few more, the sickly powdered cheese on them made them unable to eat personally. I also got cheesy fries desperately to try and although there was plenty of cheese, the cheese was disgusting, DISGUSTING. It was plastic cheese often found on a burger melted with a dollop of tasteless sour cream. Note to self don't get anything with \"cheese\" on again. On the up side there was bottomless soft drinks! That watered down the foul taste of the cheese you fries. The churros where... alright even though they are traditionally Spanish and taco bell is Mexican. In conclusion, I would give more stars due to a good atmosphere however the disappointing food let it down a lot. I expected good things but in the end I reached an anticlimactic solution. Go to taco bell but only if you like these very Americanly adapted flavours.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The food is great however the waiting time for the drive through is ridiculous! Would highly recommend going inside to order as it's twice as quick!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Foods alright but service takes forever, came twice recently first time we were the only ones here and took 15-20 mins for food, came for a quick bite now and has taken 15 mins for something off the saver menu \ud83d\ude44",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Can't fault the staff fighting to keep the show on the road here amid Brexit/Covid shortages at Monks Cross Taco Bell but my gosh it hasn't taken the chain long to start skimping and scraping on ingredients as all these US chains do when they hit Blighty.\n\nYou may as well have called the Tacos Lettuce supremes and the Burritos were a  volcano of ....rice.\n\nWelcome to rip off Britain Taco Bell, your US outlets would blush with shame.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Great food and good service\nBut everytime i go i always have something missing off my order!!! Its like they dont check everything and a lot of my friends have said the same that they always have something missing off the order",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Doesn't compare to the US chain, rubbish burritos that don't have refried beans but just straight pinto beans. Cheese is the main ingredient in everything by the looks of it.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "If you sitting in, prepare to walk out stinking like a fast food kitchen. While eating you will battle to see because of the amount of smoke in the restaurant. Kitchen needs a better extraction fan.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Very little true content in the food that we received. We ordered quite a few items. The staff were friendly and quick. We won't be back, because of the food.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food took the best part of 30 mins and everything on the menu is spicy.\nI can't be eating here again \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Wasn't very good last time I went, not tasty, they got the order wrong also, although they corrected it quickly. No hot beverages at all. Not good",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Can't say I've ever been overly impressed with Taco bell. I'm not really a regular and always forget how bad it is! Can't fault the service from the staff though.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Decent food but not impressed with the wait times is unbelievable needs to improve dramatically",
+        "review_rating": 2
+    },
+    {
+        "review_text": "I have been to this branch several times. The service is very slow; as soon as they get more than 3 orders at once it all seems to grind to a halt.\nThe restaurant is always a mess too.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "In my experience , it should not b a drive through .. if u want good food on the go ! You should not have to wait at least 10 min ,s",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Lovely food nice staff but place was filthy and food left on tables noone cleaning up",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The range of food is good but it is all very bland, soggy, mediocre food. I wouldn\u2019t bother with it to be honest, if you want Mexican food there are much nicer options out there.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Your beefy nacho grillers are getting a bit minging. I used to love them and now I can\u2019t eat them as you have started putting some sort of weird seasoning on the nachos that tastes burnt. Sort it out\ud83d\ude21",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was nice and ready quickly but it seemed under-staffed. Dirty tables and floor",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Restaurant stank of burnt food, smokey and the order taken was totally wrong? I was treated that poorly I accepted what I received and left....",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food is great but there's no \"fast\" in fast-food here! Sat in drive through for at least 15mins",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The food is fairly tasty for what it is but have been twice now and barely had any filling in it!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food great but a 20min wait?? Not just me it was every single order.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was nice but the restaurant is not kept clean at all...",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Three separate occasions of going to the drive through and having to wait twenty minutes plus for food. Shocking service.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Not impressed at all. Was expecting it to be a restaurant where I could go with the family that did takeaway as well. Its just a grey box with crappy seating.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "More than 2 stars for the food but the waiting time was appalling and wasn\u2019t busy at all",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food good, restaurant dirty, bins overflowing, food spilt on floor and tables and left even though there were barely any customers",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Expensive but that is because I did not take any meal deal. Limited menu compared to the USA, which was disappointing.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Opening hours are pants and the service is always really slow at the drive through.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was okay but a 25 minute wait is ridiculous.. looked very understaffed! Chocodilla is a rip off",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Very poor on drive through waited over 15 minutes this is not the first time I've visited.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food just ok at best. A bit pricey for what you get.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Not bad , good burrito but why the plastic packet for chips, seems very  wasteful considering the planets state",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Take away but not as good as I expected. Not worth the money paid",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Food was hot, but not very enjoyable",
+        "review_rating": 2
+    },
+    {
+        "review_text": "It's no McDonald's when you want a bit of fast food!!!",
+        "review_rating": 2
+    },
+    {
+        "review_text": "The staff were very unhelpful when my grandchildren got the wrong order.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "30 min queue...The food wasn't worth the wait",
+        "review_rating": 2
+    },
+    {
+        "review_text": "only good thing is fajita barito there amazing",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Disorganised takeaway half missing hopefully it will improve",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Tried it at son's request. All tasted the same",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Dirty tables, floor, toilets.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Took mick with food, very sickly",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Disappointed in the food and the waiting times",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Lazy staff\nBusy with chatting with friends",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Customer service by nick was horrible.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Fast but tasteless.",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Poor vegarian options",
+        "review_rating": 2
+    },
+    {
+        "review_text": "Good but not as good as it used to be.\n\nOrdered Burrito Box meal for \u00a38.99 which was ok but not exactly filling.  Portion sizes at Taco Bell seem to be getting smaller and smaller (compared to when they first opened) but yet prices keep going up.\n\nAlso last 2 times I've been I've used the touch screen in  the restaurant and on both occasions my points have not been added to my rewards app...not good!\n\nTaco Bell seems to be on the slide to me.",
+        "review_rating": 3
+    },
+    {
+        "review_text": "Tacos are tiny , measley portion of minced beef in it.. don't think burritos , tacos, enchiladas, work as a Macdonald's type operation",
+        "review_rating": 3
+    }
+]
